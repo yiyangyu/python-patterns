@@ -1,5 +1,5 @@
 """
-*What is this pattern about?
+*What is this pattern about? 123
 
 In Java and other languages, the Abstract Factory Pattern serves to provide an interface for
 creating related/dependent objects without need to specify their
